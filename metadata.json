@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Navigation Showcase",
+  "description": "A fully responsive web experience centered on an interactive sticky navigation bar. It features dynamic scroll transitions, active section tracking, fluid liquid hover capsules, and rich animation effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
